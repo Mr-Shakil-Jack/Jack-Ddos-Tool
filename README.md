@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.ibb.co/KxtmrqQV/e096a14ead.jpg" alt="Mr Shakil Jack" width="300">
+  <img src=" " alt="Mr Shakil Jack" width="300">
 </p>
 
 <h1 align="center">💥 JACK - DDoS Educational Tool 💥</h1>
@@ -45,7 +45,7 @@ python3 main.py
 
 ✅ For Windows (CMD or PowerShell)
 
-git clone https://github.com/Mr-Shakil-Jack/jack-ddos-tool.git
+#git clone https://github.com/Mr-#Shakil-Jack/jack-ddos-tool.git
 cd jack-ddos-tool
 pip install requests
 python main.py
@@ -73,20 +73,13 @@ pip install requests
 
 
 
-📸 Screenshot Placeholder
-
-> Replace your-image-link-here at the top with a real image link from Imgur or GitHub.
-
-
-
-
 
 
 🤝 Author
 
 Name: Mr Shakil Jack
 
-GitHub: github.com/your-username
+GitHub: github.com/mr shakil jack 
 
 
 
