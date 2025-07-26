@@ -51,7 +51,7 @@ pip install requests
 python main.py
 
 ✅ For Termux (Android)
-
+'''bash
 update && pkg upgrade
 pkg install git python -y
 git clone https://github.com/Mr-Shakil-Jack/jack-ddos-tool.git
