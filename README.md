@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src=" " alt="Mr Shakil Jack" width="300">
+  <img src="https://i.ibb.co/KxtmrqQV/e096a14ead.jpg" alt="Mr Shakil Jack" width="300">
 </p>
 
 <h1 align="center">💥 JACK - DDoS Educational Tool 💥</h1>
@@ -24,19 +23,19 @@
 
 ## 🚀 Features
 
-- High-speed multi-threaded request flooder
-- Supports both **IP Address** and **Website URL**
-- Terminal-friendly interface with borders and banners
-- Beautifully designed command-line UI
+- High-speed multi-threaded request flooder  
+- Supports both **IP Address** and **Website URL**  
+- Terminal-friendly interface with borders and banners  
+- Beautifully designed command-line UI  
 - Designed for Linux, Windows, and Termux (Android)
 
-
+---
 
 ## 🖥️ Installation Guide
 
 ### ✅ For Linux / Ubuntu
 
-
+```bash
 sudo apt update && sudo apt install git python3 -y
 git clone https://github.com/Mr-Shakil-Jack/jack-ddos-tool.git
 cd jack-ddos-tool
@@ -45,13 +44,13 @@ python3 main.py
 
 ✅ For Windows (CMD or PowerShell)
 
-#git clone https://github.com/Mr-#Shakil-Jack/jack-ddos-tool.git
+git clone https://github.com/Mr-Shakil-Jack/jack-ddos-tool.git
 cd jack-ddos-tool
 pip install requests
 python main.py
 
 ✅ For Termux (Android)
-'''bash
+
 update && pkg upgrade
 pkg install git python -y
 git clone https://github.com/Mr-Shakil-Jack/jack-ddos-tool.git
@@ -71,16 +70,9 @@ pip install requests
 
 
 
+📸 Screenshot Placeholder
 
-
-
-
-🤝 Author
-
-Name: Mr Shakil Jack
-
-GitHub: github.com/mr shakil jack 
-
+> Replace your-image-link-here at the top with a real image link from Imgur or GitHub.
 
 
 
