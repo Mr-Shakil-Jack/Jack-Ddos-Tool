@@ -30,7 +30,6 @@
 - Designed for Linux, Windows, and Termux (Android)
 
 ---
-
 ## 🖥️ Installation Guide
 
 ### ✅ For Linux / Ubuntu
@@ -57,6 +56,7 @@ git clone https://github.com/Mr-Shakil-Jack/jack-ddos-tool.git
 cd jack-ddos-tool
 pip install requests
 python main.py
+
 
 
 
