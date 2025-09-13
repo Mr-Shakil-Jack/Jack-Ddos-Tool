@@ -1,7 +1,4 @@
 
-<p align="center">
-  <img src="https://i.ibb.co/Kj5PBrnM/21520bcb49.jpg" alt="Mr Shakil Jack" width="300">
-</p>
 
 <h1 align="center">💥 JACK - DDoS Educational Tool 💥</h1>
 
